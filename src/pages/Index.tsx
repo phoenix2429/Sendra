@@ -202,10 +202,10 @@ const Index = () => {
 
         <div className="mt-10 flex flex-col items-center gap-3">
           <div className="flex items-center gap-4 text-muted-foreground">
-            <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="hover:text-foreground transition-colors">
+            <a href="https://github.com/phoenix2429" target="_blank" rel="noopener noreferrer" className="hover:text-foreground transition-colors">
               <Github className="w-5 h-5" />
             </a>
-            <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="hover:text-foreground transition-colors">
+            <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID" target="_blank" rel="noopener noreferrer" className="hover:text-foreground transition-colors">
               <Linkedin className="w-5 h-5" />
             </a>
           </div>
