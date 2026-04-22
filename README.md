@@ -1,3 +1,2 @@
-# Welcome to your Lovable project
+Sendra
 
-TODO: Document your project here
